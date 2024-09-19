@@ -15,8 +15,9 @@
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimuzunn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimuzunn&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimuzunn&theme=tokyonight)
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=mail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-uzun-00218b238)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=mail&logoColor=white)](mailto:ibrahimuzunonly@icloud.com)
