@@ -6,11 +6,11 @@
 ## Languages and Tools
 
 <div>
-  <img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET" width="40" height="40" style="display:inline-block; margin-right:10px;">
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right:10px;">
-  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="40" height="40" style="display:inline-block; margin-right:10px;">
-  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40" style="display:inline-block; margin-right:10px;">
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right:10px;">
+  <img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET" width="40" height="40" style="display:inline-block; margin-right:15px;">
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right:15px;">
+  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="40" height="40" style="display:inline-block; margin-right:15px;">
+  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40" style="display:inline-block; margin-right:15px;">
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right:15px;">
 </div>
 
 ## GitHub Stats
