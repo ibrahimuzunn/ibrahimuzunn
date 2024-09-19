@@ -5,10 +5,7 @@
 
 ## Languages and Tools
 
-![GitHub](https://simpleicons.org/icons/github.svg)
-![Java](https://simpleicons.org/icons/java.svg)
-![Python](https://simpleicons.org/icons/python.svg)
-![Node.js](https://simpleicons.org/icons/node-dot-js.svg)
+<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
 
 ## GitHub Stats
 
