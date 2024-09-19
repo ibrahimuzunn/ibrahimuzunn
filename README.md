@@ -5,13 +5,12 @@
 
 ## Languages and Tools
 
-<div>
-  <img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET" width="40" height="40" style="display:inline-block; margin-right:15px;">
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right:15px;">
-  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="40" height="40" style="display:inline-block; margin-right:15px;">
-  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40" style="display:inline-block; margin-right:15px;">
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right:15px;">
-</div>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSql-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## GitHub Stats
 
