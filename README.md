@@ -5,7 +5,10 @@
 
 ## Languages and Tools
 
-![GitHub](https://simpleicons.org/icons/dotnet.svg)
+![GitHub](https://simpleicons.org/icons/github.svg)
+![Java](https://simpleicons.org/icons/java.svg)
+![Python](https://simpleicons.org/icons/python.svg)
+![Node.js](https://simpleicons.org/icons/node-dot-js.svg)
 
 ## GitHub Stats
 
