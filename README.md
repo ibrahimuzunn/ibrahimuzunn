@@ -5,11 +5,13 @@
 
 ## Languages and Tools
 
-<img src="https://simpleicons.org/icons/dotnet.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
-<img src="https://simpleicons.org/icons/javascript.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
-<img src="https://simpleicons.org/icons/android.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
-<img src="https://simpleicons.org/icons/c.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
-<img src="https://simpleicons.org/icons/mysql.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
+<div>
+  <img src="https://simpleicons.org/icons/dotnet.svg" alt=".NET" width="40" height="40" style="display:inline-block; margin-right:10px;">
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin-right:10px;">
+  <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="40" height="40" style="display:inline-block; margin-right:10px;">
+  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40" style="display:inline-block; margin-right:10px;">
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40" style="display:inline-block; margin-right:10px;">
+</div>
 
 ## GitHub Stats
 
