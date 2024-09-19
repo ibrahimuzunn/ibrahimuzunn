@@ -5,7 +5,11 @@
 
 ## Languages and Tools
 
-<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
+<img src="https://simpleicons.org/icons/dotnet.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
+<img src="https://simpleicons.org/icons/javascript.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
+<img src="https://simpleicons.org/icons/android.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
+<img src="https://simpleicons.org/icons/c.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
+<img src="https://simpleicons.org/icons/mysql.svg" alt="GitHub" width="40" height="40" style="fill:#181717;">
 
 ## GitHub Stats
 
