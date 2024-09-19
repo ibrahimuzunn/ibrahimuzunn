@@ -20,4 +20,4 @@
 ## Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-uzun-00218b238)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=mail&logoColor=white)](mailto:ibrahimuzunonly@icloud.com)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:ibrahimuzunonly@icloud.com)
